@@ -1,0 +1,8 @@
+features need to be added:
+    delete
+    search
+    update
+    show
+    show plots
+
+optimize the download page
